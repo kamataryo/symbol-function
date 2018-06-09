@@ -1,6 +1,6 @@
 {
   "name": "@kamataryo/symbol-function",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Function object safe for bracket suffix",
   "author": "kamataryo <mugil.cephalus+github.com@gmail.com>",
   "main": "src/index.js",
