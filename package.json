@@ -1,0 +1,37 @@
+{
+  "name": "@kamataryo/symbol-function",
+  "version": "1.0.0",
+  "description": "Function object safe for bracket suffix",
+  "author": "kamataryo <mugil.cephalus+github.com@gmail.com>",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=8.6"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "eslint": "^4.19.1",
+    "prettier": "^1.12.1",
+    "prettier-eslint": "^8.8.1",
+    "prettier-eslint-cli": "^4.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamataryo/symbol-function.git"
+  },
+  "keywords": [
+    "function",
+    "symbol",
+    "object",
+    "array",
+    "bracket",
+    "suffix"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamataryo/symbol-function/issues"
+  },
+  "homepage": "https://github.com/kamataryo/symbol-function#readme"
+}
