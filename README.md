@@ -1,9 +1,9 @@
 # SymbolFunction
 
-[![npm version](https://badge.fury.io/js/symbol-function.svg)](https://badge.fury.io/js/symbol-function)
+[![npm version](https://badge.fury.io/js/%40kamataryo%2Fsymbol-function.svg)](https://badge.fury.io/js/%40kamataryo%2Fsymbol-function)
 [![Build Status](https://travis-ci.org/kamataryo/symbol-function.svg?branch=master)](https://travis-ci.org/kamataryo/symbol-function)
 
-SymbolFunction can be used as a function and bracket suffix.
+SymbolFunction can be used as a function and bracket suffix safely.
 
 ## install
 
